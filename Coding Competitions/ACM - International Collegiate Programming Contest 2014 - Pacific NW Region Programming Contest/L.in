@@ -1,0 +1,32 @@
+3
+4
+Ear 0 0 0
+Pro 5 0 0
+Bar 5 5 0
+Sir 0 5 0
+2
+Ear Bar
+Bar Sir
+6
+Ear Pro
+Ear Bar
+Ear Sir
+Pro Ear
+Bar Ear
+Sir Ear
+3
+z1 0 0 0
+z2 10 10 10
+z3 10 0 0
+1
+z1 z2
+3
+z2 z1
+z1 z2
+z1 z3
+2
+Mar 12345 98765 87654
+Jup 45678 65432 11111
+0
+1
+Mar Jup
