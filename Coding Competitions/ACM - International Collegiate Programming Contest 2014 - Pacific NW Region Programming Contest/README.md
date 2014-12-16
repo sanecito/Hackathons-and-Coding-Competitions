@@ -1,5 +1,5 @@
 ##Pacific NW Region Programming Contest
-
+**NOTE: Coding prompt will be added when I have access to the prompt in January
 ###Coding Narrative
 
 ####Background
